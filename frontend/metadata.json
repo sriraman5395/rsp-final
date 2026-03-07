@@ -1,5 +1,5 @@
 {
-  "name": "Interactive Image Map",
-  "description": "An interactive map application using a static image with zoom, pan, and dynamic markers.",
+  "name": "Railway map",
+  "description": "Railway LC map application",
   "requestFramePermissions": []
 }
