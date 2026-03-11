@@ -410,7 +410,7 @@ export const MapViewer: React.FC<MapViewerProps> = ({
                     </div>
                   </AccordionItem>
 
-                  <AccordionItem title="Images">
+                  <AccordionItem title="Site Photographs">
                     {images.length > 0 ? (
                       <div className="grid grid-cols-2 gap-2">
                         {images.map((img) => (
