@@ -443,7 +443,7 @@ export const MapViewer: React.FC<MapViewerProps> = ({
                     className="flex items-center justify-center gap-2 w-full px-4 py-2.5 bg-yellow-400 hover:bg-yellow-500 text-slate-900 text-sm font-bold rounded-lg transition-colors shadow-sm"
                   >
                     <ExternalLink size={16} />
-                    Navigate to Asset
+                    Navigate to place
                   </a>
                 </div>
               </motion.div>
